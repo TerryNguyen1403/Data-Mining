@@ -1,2 +1,1 @@
-# Bài báo cáo cuối kỳ data mining
-Clone về rồi chạy HouseVN, dataset sẽ sử dụng là GiaChungCu_HCM....
+# Bài báo cáo cuối kỳ 
